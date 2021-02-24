@@ -19,9 +19,10 @@
 		"@typescript-eslint"
 	],
 	"rules": {
-		// "indent": [
-		// 	0
-		// ],
+		"indent": [
+			0
+		],
+		"no-tabs": 0,
 		"lines-between-class-members": "off",
 		"padded-blocks": "off",
 		"prefer-destructuring": "off",
